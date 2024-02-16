@@ -1,4 +1,4 @@
-- 🌱 Futur Cloud Computing & Virtualization Engineer
+- 🌱 Future Cloud Computing & Virtualization Engineer
 - 👋 Hi, I’m @bsnabil
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Software Development ,Linux administration(RHCSA) ,Docker ,Docker-Compose ,kubernetes CI/CD ...
