@@ -1,7 +1,6 @@
-- 🌱 Future Cloud Computing & Virtualization Engineer
 - 👋 Hi, I’m @bsnabil
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Software Development ,Linux administration(RHCSA) ,Docker ,Docker-Compose ,kubernetes CI/CD ...
+- 🌱 Cloud Computing & Virtualization Engineer
+- 👀 I’m interested in DevOps , System Administration , Security ...
 
 <!---
 bsnabil/bsnabil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
